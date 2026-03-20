@@ -13,4 +13,6 @@ TO DO:
 7. on GitHub, create pull request
 8. one person resolves and everyone else should watch
 
+Random Text - Russell
+
  Benjamin
